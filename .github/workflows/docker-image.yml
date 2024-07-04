@@ -27,4 +27,4 @@ jobs:
       uses: docker/build-push-action@v2
       with:
         push: true
-        tags: suhyen/msa-member:v2
+        tags: suhyen/msa-member:24.07.04
