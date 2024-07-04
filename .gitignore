@@ -43,5 +43,4 @@ out/
 /src/main/resources/application-dev.properties
 
 ### .DS_Store ###
-./DS_Store
-DS_Store
+.DS_Store
